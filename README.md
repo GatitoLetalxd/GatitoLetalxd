@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,50,100&height=220&section=header&text=Rogeero%20Montufar%20(%20MoonDev%20)&fontSize=38&fontAlignY=36&desc=Full%20Stack%20%26%20Mobile%20Engineer%20%7C%20Cloud%20%26%20DevOps&descAlignY=62&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,50,100&height=220&section=header&text=Rogeero%20Montufar%20(%20MoonDev%20)&fontSize=38&fontAlignY=36&desc=Full%20Stack%20%2B%20Mobile%20Engineer%20%7C%20Cloud%20%2B%20DevOps&descAlignY=62&descAlign=50" width="100%" />
 
   <p align="center">
     <a href="https://moondev.online" target="_blank"><img src="https://img.shields.io/badge/Portafolio-moondev.online-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
